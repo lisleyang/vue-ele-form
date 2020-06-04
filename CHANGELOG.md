@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.9.2](https://github.com/dream2023/vue-ele-form/compare/v0.9.1...v0.9.2) (2020-06-04)
+
+
+### Features
+
+* **update prop:** update props ([24464e0](https://github.com/dream2023/vue-ele-form/commit/24464e025500286b78e268bb8d24114c62caebe3))
+
 ### [0.9.1](https://github.com/dream2023/vue-ele-form/compare/v0.8.25...v0.9.1) (2020-06-04)
 
 ### [0.8.25](https://github.com/dream2023/vue-ele-form/compare/v0.8.24...v0.8.25) (2020-05-08)
