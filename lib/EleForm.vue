@@ -11,6 +11,7 @@
           ref="form"
           :disabled="disabled"
           v-bind="formAttrs"
+          :validate-on-rule-change="validateOnRuleChange"
         >
           <!-- 默认插槽作为表单项 -->
           <slot />
@@ -147,6 +148,10 @@ export default {
     inline: {
       type: Boolean,
       default: false
+    },
+    validateOnRuleChange: {
+      type: Boolean,
+      default: true
     },
     // 表单自身属性
     formAttrs: Object,
